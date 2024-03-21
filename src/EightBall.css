@@ -1,0 +1,30 @@
+.EightBall-normal-btn{
+    height: 400px;
+    width: 400px;
+    border: none;
+    cursor: pointer;
+    box-shadow: inset;
+    border-radius: 500px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}
+
+.EightBall-reset-btn{
+    height: 50px;
+    width: 60px;
+    margin: 15px;
+    border: none;
+    border-radius: 50px;
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.EightBall-reset-btn:hover{
+    background-color: rgb(155, 155, 155);
+}
+
+.EightBall-reset-btn:active{
+    background-color: grey;
+}
